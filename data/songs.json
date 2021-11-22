@@ -190,21 +190,5 @@
     "artist": "The Postal Service",
     "genre": "Alternative Indie",
     "releaseDate": "02/18/2003"
-  },
-  {
-    "id": "25",
-    "title": "Cars",
-    "album": "The Pleasure Principle",
-    "artist": "Gary Numan",
-    "genre": "Rock",
-    "releaseDate": "1979"
-  },
-  {
-    "id": 26,
-    "title": "Iron Man",
-    "album": "Paranoid",
-    "artist": "Black Sabbath",
-    "genre": "Heavy Metal",
-    "releaseDate": "1970"
   }
 ]
