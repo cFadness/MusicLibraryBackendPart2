@@ -190,5 +190,77 @@
     "artist": "The Postal Service",
     "genre": "Alternative Indie",
     "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 25,
+    "title": "Iron Man",
+    "album": "Paranoid",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1970"
+  },
+  {
+    "id": 26,
+    "title": "Supernaut",
+    "album": "Vol. 4",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1972"
+  },
+  {
+    "id": 27,
+    "title": "Paranoid",
+    "album": "Paranoid",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1970"
+  },
+  {
+    "id": 28,
+    "title": "War Pigs",
+    "album": "Paranoid",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1970"
+  },
+  {
+    "id": 29,
+    "title": "Snowblind",
+    "album": "Vol. 4",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1972"
+  },
+  {
+    "id": 30,
+    "title": "Children of the Grave",
+    "album": "Master of Reality",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1971"
+  },
+  {
+    "id": 31,
+    "title": "Sweet leaf",
+    "album": "Master of Reality",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1971"
+  },
+  {
+    "id": 32,
+    "title": "The Wizard",
+    "album": "Black Sabbath",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1970"
+  },
+  {
+    "id": 33,
+    "title": "Hole in the Sky",
+    "album": "Sabotage",
+    "artist": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "releaseDate": "1975"
   }
 ]
